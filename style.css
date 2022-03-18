@@ -53,4 +53,5 @@ body{
 
 .box .cards:hover .image img{
     transform: scale(1.2);
+    transition: all 1s ease;
 }
